@@ -27,6 +27,7 @@ public class TitleUI extends JFrame {
 		});
 	}
 
+	
 	/**
 	 * Create the frame.
 	 */
